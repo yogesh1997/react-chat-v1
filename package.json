@@ -1,0 +1,35 @@
+{
+  "name": "slack",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@firebase/app": "0.3.11",
+    "@firebase/auth": "0.9.4",
+    "@firebase/database": "0.3.14",
+    "@firebase/storage": "0.2.10",
+    "emmet": "1.6.3",
+    "firebase": "5.8.6",
+    "font-awesome": "4.7.0",
+    "md5": "2.2.1",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-redux": "6.0.1",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "redux": "4.0.1",
+    "redux-devtools-extension": "2.13.8",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "0.86.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
